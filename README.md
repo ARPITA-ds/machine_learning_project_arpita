@@ -13,3 +13,7 @@ docker build -t <image_name>:<tagname>
 docker images
 
 docker run -p
+
+Install ipykernel
+
+pip install ipykernel
